@@ -4,6 +4,7 @@ This is a mini project using Azue virtual machine, and Azure storage blob contai
 , then obtain the following data:  publication date, job name, job type, job location, company name 
 which can be found on the “Response body”
 Below are the steps in detail
+
 1/ Create Ubuntu virtual environment on the VM including installing all of the required tools/libraries, such as azcopy, etc
 python3 -m venv venv
 source venv/bin/activate
